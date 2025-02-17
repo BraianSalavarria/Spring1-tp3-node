@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "\"aprender las bases de express\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "braian salavarria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

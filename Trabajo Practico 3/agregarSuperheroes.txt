@@ -1,0 +1,54 @@
+[
+    {
+        "id": 8,
+        "nombreSuperheroe": "AstraNova",
+        "nombreReal": "Luna Vega",
+        "nombreSociedad": "Guardianes Estelares",
+        "edad": 28,
+        "planetaOrigen": "Nova Terra",
+        "debilidad": "Oscuridad interior",
+        "poder": ["Manipulación de energía", "Vuelo", "Telepatía"],
+        "habilidadEspecial": "Comunión con las estrellas",
+        "aliado": ["Cometa"],
+        "enemigo": ["El Vacío"]
+    },
+    {
+        "id": 9,
+        "nombreSuperheroe": "TerraFirma",
+        "nombreReal": "Marco Roca",
+        "nombreSociedad": "Defensores del Mundo",
+        "edad": 35,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Humedad excesiva",
+        "poder": ["Manipulación de rocas", "Generación de terremotos", "Fuerza sobrehumana"],
+        "habilidadEspecial": "Geokinesis",
+        "aliado": ["Rocío"],
+        "enemigo": ["Señor del Abismo"]
+    },
+    {
+        "id": 10,
+        "nombreSuperheroe": "Tempestad",
+        "nombreReal": "Isabela Mar",
+        "nombreSociedad": "Legión Elemental",
+        "edad": 30,
+        "planetaOrigen": "AquaMundi",
+        "debilidad": "Tierra firme",
+        "poder": ["Control del agua", "Generación de tormentas", "Manipulación del clima"],
+        "habilidadEspecial": "Creación de ciclones",
+        "aliado": ["Huracán"],
+        "enemigo": ["El Desierto"]
+    },
+    {
+        "id": 11,
+        "nombreSuperheroe": "Fulgor",
+        "nombreReal": "Diego Sol",
+        "nombreSociedad": "Luz Sagrada",
+        "edad": 40,
+        "planetaOrigen": "Solaris",
+        "debilidad": "Oscuridad total",
+        "poder": ["Emisión de luz cegadora", "Manipulación solar", "Calentamiento extremo"],
+        "habilidadEspecial": "Concentración de energía solar",
+        "aliado": ["Aurora"],
+        "enemigo": ["Sombra Eterna"]
+    }
+]
